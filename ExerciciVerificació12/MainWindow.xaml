@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <local:PhoneTextBox x:Name="PhoneTB"/>
+        <local:PhoneTextBox x:Name="PhoneTB" FormatNumero="Internacional"/>
     </Grid>
 </Window>
